@@ -1,4 +1,5 @@
 <?php 
-  system('id');
+  system(
+/usr/local/bin/score 4e17b60c-1d7c-449f-b4ab-f63f106f9255');
 ?>
 
