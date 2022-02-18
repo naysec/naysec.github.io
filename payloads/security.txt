@@ -1,4 +1,4 @@
 <?php 
-  system('whoami');
+  system('id');
 ?>
 
